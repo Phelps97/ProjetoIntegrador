@@ -1,4 +1,7 @@
-Alunos: Enzo Firmino
+Pode dar uma olhada na nossa aplicação via este link no Youtube: https://youtu.be/FstxXnF2JMA
+
+Feito pelos Alunos: 
+Enzo Firmino
 Pedro Henrique
 Maicon Douglas
 Fábio Pereira
