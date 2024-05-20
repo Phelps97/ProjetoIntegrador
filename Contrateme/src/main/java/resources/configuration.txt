@@ -1,0 +1,3 @@
+urlConexao=jdbc:postgresql:​//TestSQL:5432/contrateme
+usuarioBanco=root
+senhaBanco=root
