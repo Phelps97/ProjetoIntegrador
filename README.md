@@ -1,4 +1,4 @@
-Pode dar uma olhada na nossa aplicação via este link no Youtube: https://youtu.be/FstxXnF2JMA
+Pode dar uma olhada na nossa aplicação via este link no Youtube: https://youtu.be/FstxXnF2JMA e no nosso protótipo no FIGMA: https://www.figma.com/proto/RU5YuN7iVrRgwEa6dg0iY1/Untitled?node-id=2-2&t=HBVWgvIbsUZVVAhi-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A2
 
 Feito pelos Alunos: 
 Enzo Firmino
